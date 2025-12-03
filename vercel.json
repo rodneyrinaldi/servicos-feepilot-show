@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/pjenotifications-embed.html" }
+    { "source": "/", "destination": "/oabfeeschedule-embed.html" }
   ]
 }
